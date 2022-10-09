@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Obsidian Companion</string>
+    <string name="title_activity_ocwidget">OCWidget</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="loading">loading...</string>
 </resources>
